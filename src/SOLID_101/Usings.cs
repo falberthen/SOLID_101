@@ -1,0 +1,11 @@
+﻿global using System;
+global using SOLID_101;
+global using System.Text;
+global using SOLID_101.Shapes;
+global using SOLID_101.Services;
+global using System.Collections.Generic;
+global using SOLID_101.Shapes.Interfaces;
+global using SOLID_101.Services.Renderers;
+global using Microsoft.Extensions.Hosting;
+global using SOLID_101.Services.Interfaces;
+global using Microsoft.Extensions.DependencyInjection;
